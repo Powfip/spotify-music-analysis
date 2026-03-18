@@ -61,7 +61,7 @@ spotify-music-analysis/
 
 **1. Clona el repositorio**
 ```bash
-git clone https://github.com/tu-usuario/spotify-music-analysis.git
+git clone https://github.com/Powfip/spotify-music-analysis.git
 cd spotify-music-analysis
 ```
 
